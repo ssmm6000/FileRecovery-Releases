@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="File Recovery Tool icon" width="160" height="160">
+<img src="assets/icon.png" alt="Deleted Files Recovery Program icon" width="160" height="160">
 
-# أداة استرجاع الملفات المحذوفة — File Recovery Tool
+# برنامج استرجاع الملفات المحذوفة — Deleted Files Recovery Program
 
 **استرجع ملفاتك المحذوفة من الأقراص الصلبة وأقراص SSD والفلاشات وبطاقات الذاكرة — على ويندوز**
 <br>
@@ -31,9 +31,9 @@
 
 ## العربية
 
-### ما هي أداة استرجاع الملفات؟
+### ما هو برنامج استرجاع الملفات المحذوفة؟
 
-**أداة استرجاع الملفات المحذوفة** برنامج لويندوز يبحث في القرص عن الملفات التي حُذفت أو ضاعت بعد فورمات أو تلف، ويستخرجها إلى مكان آمن. يعمل على الأقراص الصلبة وأقراص SSD والفلاشات وبطاقات الذاكرة وملفات صور الأقراص، **ولا يكتب أي شيء على القرص الذي تسترجع منه**.
+**برنامج استرجاع الملفات المحذوفة** يعمل على ويندوز، ويبحث في القرص عن الملفات التي حُذفت أو ضاعت بعد فورمات أو تلف، ويستخرجها إلى مكان آمن. يعمل على الأقراص الصلبة وأقراص SSD والفلاشات وبطاقات الذاكرة وملفات صور الأقراص، **ولا يكتب أي شيء على القرص الذي تسترجع منه**.
 
 ### لماذا تستخدمها؟
 
@@ -93,9 +93,9 @@
 
 ## English
 
-### What is the File Recovery Tool?
+### What is the Deleted Files Recovery Program?
 
-**File Recovery Tool** is a Windows program that searches a disk for files that were deleted or lost after a format or damage, and copies them out to a safe place. It works on hard drives, SSDs, USB flash drives, memory cards and disk image files, and **never writes anything to the disk you are recovering from**.
+**Deleted Files Recovery Program** is a Windows program that searches a disk for files that were deleted or lost after a format or damage, and copies them out to a safe place. It works on hard drives, SSDs, USB flash drives, memory cards and disk image files, and **never writes anything to the disk you are recovering from**.
 
 ### Why use it?
 
@@ -177,10 +177,10 @@ Download `recovery-gui_<version>_x64-setup.exe`, run it, then open the program f
 
 **© 2026 سلطان السالمي. جميع الحقوق محفوظة.**
 
-برنامج "أداة استرجاع الملفات المحذوفة" من تطوير **سلطان السالمي**، وجميع حقوقه محفوظة له. لا يجوز نسخ البرنامج أو تعديله أو إعادة توزيعه أو بيعه أو نسبته لغير مطوّره دون إذن كتابي مسبق من المطوّر.
+برنامج "استرجاع الملفات المحذوفة" من تطوير **سلطان السالمي**، وجميع حقوقه محفوظة له. لا يجوز نسخ البرنامج أو تعديله أو إعادة توزيعه أو بيعه أو نسبته لغير مطوّره دون إذن كتابي مسبق من المطوّر.
 
 </div>
 
 **© 2026 Sultan Al-Salmi. All rights reserved.**
 
-"File Recovery Tool" was developed by **Sultan Al-Salmi**, who holds all rights to it. You may not copy, modify, redistribute, sell, or claim authorship of this software without prior written permission from the developer.
+"Deleted Files Recovery Program" was developed by **Sultan Al-Salmi**, who holds all rights to it. You may not copy, modify, redistribute, sell, or claim authorship of this software without prior written permission from the developer.

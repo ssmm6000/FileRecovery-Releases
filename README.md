@@ -8,7 +8,7 @@
 <br>
 **Recover deleted files from hard drives, SSDs, USB flash drives and memory cards — on Windows**
 
-[![Windows](https://img.shields.io/badge/Windows-0.4.34-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.34)
+[![Windows](https://img.shields.io/badge/Windows-0.4.35-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.35)
 [![Read-only](https://img.shields.io/badge/Source_disk-read--only-087F8C)](#-الأمان-والخصوصية)
 [![Arabic & English](https://img.shields.io/badge/UI-العربية_·_English-6E40C9)](#المزايا)
 
@@ -22,8 +22,8 @@
 
 | المنصة / Platform | الملف / File | الوصف | Description |
 |---|---|---|---|
-| 🪟 **Windows** | [**recovery-gui_0.4.34_x64-setup.exe**](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.34/recovery-gui_0.4.34_x64-setup.exe) | المثبّت العادي (موصى به) | Standard installer (recommended) |
-| 🪟 **Windows** | [recovery-gui_0.4.34_x64_ar-SA.msi](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.34/recovery-gui_0.4.34_x64_ar-SA.msi) | حزمة MSI للتثبيت عبر سياسات المؤسسات | MSI package for managed/enterprise deployment |
+| 🪟 **Windows** | [**recovery-gui_0.4.35_x64-setup.exe**](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.35/recovery-gui_0.4.35_x64-setup.exe) | المثبّت العادي (موصى به) | Standard installer (recommended) |
+| 🪟 **Windows** | [recovery-gui_0.4.35_x64_ar-SA.msi](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.35/recovery-gui_0.4.35_x64_ar-SA.msi) | حزمة MSI للتثبيت عبر سياسات المؤسسات | MSI package for managed/enterprise deployment |
 
 ---
 
@@ -155,7 +155,8 @@ Download `recovery-gui_<version>_x64-setup.exe`, run it, then open the program f
 
 | الإصدار / Version | التاريخ / Date | الجديد | What's new | التنزيل / Download |
 |---|---|---|---|---|
-| [**0.4.34**](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.34) <br>الأحدث · latest | 2026-10-08 | نافذة نقل/تغيير حجم الأقسام بالسحب، وتعمل على قرص النظام | Drag-and-drop Move/Resize window, works on the system disk | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.34/recovery-gui_0.4.34_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.34/recovery-gui_0.4.34_x64_ar-SA.msi) |
+| [**0.4.35**](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.35) <br>الأحدث · latest | 2026-10-08 | دمج D مع C عبر قسم الاسترداد، واختبار الكتابة والتحقق | Merge D: into C: across Recovery; write-and-verify test | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.35/recovery-gui_0.4.35_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.35/recovery-gui_0.4.35_x64_ar-SA.msi) |
+| [0.4.34](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.34) | 2026-10-08 | نافذة نقل/تغيير حجم الأقسام بالسحب، وتعمل على قرص النظام | Drag-and-drop Move/Resize window, works on the system disk | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.34/recovery-gui_0.4.34_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.34/recovery-gui_0.4.34_x64_ar-SA.msi) |
 | [0.4.33](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.33) | 2026-10-07 | دمج المساحة غير المخصصة مع C خلف قسم الاسترداد | Merge unallocated space into C: past the Recovery partition | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.33/recovery-gui_0.4.33_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.33/recovery-gui_0.4.33_x64_ar-SA.msi) |
 | [0.4.32](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.32) | 2026-10-07 | الاسم الجديد، وأدوات إدارة الأقراص والأقسام على طريقة MiniTool | New name; MiniTool-style disk and partition tools | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.32/recovery-gui_0.4.32_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.32/recovery-gui_0.4.32_x64_ar-SA.msi) |
 | [0.4.31](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.31) | 2026-10-07 | إصلاح الملفات السليمة المزيّفة وأخطاء exFAT/FAT32 وتسريع الفحص السريع | Fix fake Good files, exFAT/FAT32 bugs, faster quick scan | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.31/recovery-gui_0.4.31_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.31/recovery-gui_0.4.31_x64_ar-SA.msi) |

@@ -364,6 +364,7 @@ The program's language and look, checking for updates, the version, and license 
 
 > **Tips:**
 > - When the program starts it tells you automatically if an update is available.
+> - The License button (the key) in the top bar shows your edition; use it to activate the program, or to paste an upgrade key if you bought a higher edition.
 
 [↑ Back to contents](#contents)
 

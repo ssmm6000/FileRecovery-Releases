@@ -4,7 +4,7 @@
 
 # برنامج استرجاع الملفات المحذوفة — Deleted Files Recovery Program
 
-📘 **[دليل الاستخدام المصوّر](GUIDE.md)** · **[Illustrated User Guide](GUIDE.en.md)**
+📘 **[دليل الاستخدام المصوّر](GUIDE.md)** ([PDF](GUIDE-ar.pdf)) · **[Illustrated User Guide](GUIDE.en.md)** ([PDF](GUIDE-en.pdf))
 
 **استرجع ملفاتك المحذوفة من الأقراص الصلبة وأقراص SSD والفلاشات وبطاقات الذاكرة — على ويندوز**
 <br>

@@ -1,6 +1,6 @@
 # Deleted Files Recovery Program — User Guide
 
-[العربية](GUIDE.md) · [Download the program](README.md)
+[العربية](GUIDE.md) · [PDF copy for printing](GUIDE-en.pdf) · [Download the program](README.md)
 
 A simple illustrated explanation of every part of the program. The red numbers in each picture match the steps written under it. The same guide is inside the program, from the “User Guide” button at the top.
 

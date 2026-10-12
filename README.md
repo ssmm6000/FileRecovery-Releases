@@ -10,7 +10,7 @@
 <br>
 **Recover deleted files from hard drives, SSDs, USB flash drives and memory cards — on Windows**
 
-[![Windows](https://img.shields.io/badge/Windows-0.4.49-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.49)
+[![Windows](https://img.shields.io/badge/Windows-0.4.50-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.50)
 [![Read-only](https://img.shields.io/badge/Source_disk-read--only-087F8C)](#-الأمان-والخصوصية)
 [![Arabic & English](https://img.shields.io/badge/UI-العربية_·_English-6E40C9)](#المزايا)
 
@@ -24,8 +24,8 @@
 
 | المنصة / Platform | الملف / File | الوصف | Description |
 |---|---|---|---|
-| 🪟 **Windows** | [**recovery-gui_0.4.49_x64-setup.exe**](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.49/recovery-gui_0.4.49_x64-setup.exe) | المثبّت العادي (موصى به) | Standard installer (recommended) |
-| 🪟 **Windows** | [recovery-gui_0.4.49_x64_ar-SA.msi](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.49/recovery-gui_0.4.49_x64_ar-SA.msi) | حزمة MSI للتثبيت عبر سياسات المؤسسات | MSI package for managed/enterprise deployment |
+| 🪟 **Windows** | [**recovery-gui_0.4.50_x64-setup.exe**](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.50/recovery-gui_0.4.50_x64-setup.exe) | المثبّت العادي (موصى به) | Standard installer (recommended) |
+| 🪟 **Windows** | [recovery-gui_0.4.50_x64_ar-SA.msi](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.50/recovery-gui_0.4.50_x64_ar-SA.msi) | حزمة MSI للتثبيت عبر سياسات المؤسسات | MSI package for managed/enterprise deployment |
 
 ---
 
@@ -157,7 +157,7 @@ Download `recovery-gui_<version>_x64-setup.exe`, run it, then open the program f
 
 | الإصدار / Version | التاريخ / Date | الجديد | What's new | التنزيل / Download |
 |---|---|---|---|---|
-| [**0.4.49**](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.49) <br>الأحدث · latest | 2026-10-12 | إصلاح تثبيت السعة الحقيقية على الفلاشة | Fix setting a stick's real capacity | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.49/recovery-gui_0.4.49_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.49/recovery-gui_0.4.49_x64_ar-SA.msi) |
+| [**0.4.50**](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.50) <br>الأحدث · latest | 2026-10-12 | زر الترخيص في الأعلى وترقية الترخيص ونافذة حول البرنامج بالوضع الداكن | License button in the top bar, license upgrades, dark About window | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.50/recovery-gui_0.4.50_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.50/recovery-gui_0.4.50_x64_ar-SA.msi) |
 
 التفاصيل الكاملة لكل إصدار في صفحة **[الإصدارات / Releases](https://github.com/ssmm6000/FileRecovery-Releases/releases)**.
 

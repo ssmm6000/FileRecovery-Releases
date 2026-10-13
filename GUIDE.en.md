@@ -166,6 +166,7 @@ To split a disk, shrink, extend or move a partition, or format it and change its
 
 1. “Partition Manager” to change a disk's partitions.
 2. “Disk to disk copy” to copy a whole disk onto another.
+3. “Create image” to copy a whole disk into one file (an image) before recovering.
 
 <img src="guide/img/editor-en.webp" alt="Partition Manager" width="900">
 

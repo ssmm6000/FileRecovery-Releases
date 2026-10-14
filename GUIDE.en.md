@@ -183,6 +183,7 @@ To split a disk, shrink, extend or move a partition, or format it and change its
 > **Tips:**
 > - Back up important files before moving or resizing a partition.
 > - If Windows allows shrinking a partition by less than its free space, the program explains why and offers a fix when one exists.
+> - Click a “Free” area to add it to any data partition on the same disk, even with another partition (such as Recovery) in between: it is moved automatically, and you see what will happen before anything runs.
 
 [↑ Back to contents](#contents)
 

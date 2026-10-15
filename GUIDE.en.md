@@ -184,6 +184,8 @@ To split a disk, shrink, extend or move a partition, or format it and change its
 > - Back up important files before moving or resizing a partition.
 > - If Windows allows shrinking a partition by less than its free space, the program explains why and offers a fix when one exists.
 > - Click a “Free” area to add it to any data partition on the same disk, even with another partition (such as Recovery) in between: it is moved automatically, and you see what will happen before anything runs.
+> - To make a new partition from a “Free” area (even on the Windows disk), press “Create partition” and pick the letter you want in “Drive letter”.
+> - If “The partition is open in another program” appears, close the programs using the partition and try again — or save your work and press “Force dismount and continue”.
 
 [↑ Back to contents](#contents)
 
@@ -367,6 +369,7 @@ The program's language and look, checking for updates, the version, and license 
 > **Tips:**
 > - When the program starts it tells you automatically if an update is available.
 > - The License button (the key) in the top bar shows your edition; use it to activate the program, or to paste an upgrade key if you bought a higher edition.
+> - If something goes wrong: “Create diagnostic report…” saves a text file with your disks and the program's recent errors (no file names), and “Report a problem” opens the page to send it with a description.
 
 [↑ Back to contents](#contents)
 

@@ -10,7 +10,7 @@
 <br>
 **Recover deleted files from hard drives, SSDs, USB flash drives and memory cards — on Windows**
 
-[![Windows](https://img.shields.io/badge/Windows-0.4.57-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.57)
+[![Windows](https://img.shields.io/badge/Windows-0.4.58-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.58)
 [![Read-only](https://img.shields.io/badge/Source_disk-read--only-087F8C)](#-الأمان-والخصوصية)
 [![Arabic & English](https://img.shields.io/badge/UI-العربية_·_English-6E40C9)](#المزايا)
 
@@ -24,8 +24,8 @@
 
 | المنصة / Platform | الملف / File | الوصف | Description |
 |---|---|---|---|
-| 🪟 **Windows** | [**recovery-gui_0.4.57_x64-setup.exe**](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.57/recovery-gui_0.4.57_x64-setup.exe) | المثبّت العادي (موصى به) | Standard installer (recommended) |
-| 🪟 **Windows** | [recovery-gui_0.4.57_x64_ar-SA.msi](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.57/recovery-gui_0.4.57_x64_ar-SA.msi) | حزمة MSI للتثبيت عبر سياسات المؤسسات | MSI package for managed/enterprise deployment |
+| 🪟 **Windows** | [**FileRecovery_0.4.58_x64-setup.exe**](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.58/FileRecovery_0.4.58_x64-setup.exe) | المثبّت العادي (موصى به) | Standard installer (recommended) |
+| 🪟 **Windows** | [FileRecovery_0.4.58_x64_ar-SA.msi](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.58/FileRecovery_0.4.58_x64_ar-SA.msi) | حزمة MSI للتثبيت عبر سياسات المؤسسات | MSI package for managed/enterprise deployment |
 
 ---
 
@@ -77,7 +77,7 @@
 
 ### التثبيت
 
-نزّل `recovery-gui_<الإصدار>_x64-setup.exe` وشغّله، ثم افتح البرنامج من قائمة ابدأ.
+نزّل `FileRecovery_<الإصدار>_x64-setup.exe` وشغّله، ثم افتح البرنامج من قائمة ابدأ.
 
 > - عند فتح البرنامج يظهر طلب ويندوز للسماح (UAC) — اضغط "نعم".
 > - قد يظهر تحذير **Windows SmartScreen** لأن الملف غير موقّع رقمياً: اضغط "معلومات إضافية" ثم "تشغيل على أي حال".
@@ -139,7 +139,7 @@
 
 ### Installation
 
-Download `recovery-gui_<version>_x64-setup.exe`, run it, then open the program from the Start Menu.
+Download `FileRecovery_<version>_x64-setup.exe`, run it, then open the program from the Start Menu.
 
 > - Windows shows a permission prompt (UAC) when you open the program — click "Yes".
 > - **Windows SmartScreen** may warn because the file isn't digitally signed: click "More info" → "Run anyway".
@@ -157,7 +157,7 @@ Download `recovery-gui_<version>_x64-setup.exe`, run it, then open the program f
 
 | الإصدار / Version | التاريخ / Date | الجديد | What's new | التنزيل / Download |
 |---|---|---|---|---|
-| [**0.4.57**](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.57) <br>الأحدث · latest | 2026-11-24 | تحديث أمني: سدّ ثغرة في عرض أسماء الملفات وتحديث تلقائي أكثر أماناً | Security update: file-name display fix and safer in-app updates | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.57/recovery-gui_0.4.57_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.57/recovery-gui_0.4.57_x64_ar-SA.msi) |
+| [**0.4.58**](https://github.com/ssmm6000/FileRecovery-Releases/releases/tag/v0.4.58) <br>الأحدث · latest | 2026-11-24 | اسم جديد File Recovery وتحديث مكتبات الاتصال الآمن | New name File Recovery and secure-connection library updates | [Setup](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.58/FileRecovery_0.4.58_x64-setup.exe) · [MSI](https://github.com/ssmm6000/FileRecovery-Releases/releases/download/v0.4.58/FileRecovery_0.4.58_x64_ar-SA.msi) |
 
 التفاصيل الكاملة لكل إصدار في صفحة **[الإصدارات / Releases](https://github.com/ssmm6000/FileRecovery-Releases/releases)**.
 
